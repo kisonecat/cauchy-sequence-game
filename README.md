@@ -2,6 +2,8 @@
 
 This is a computer partner for the Cauchy Sequence Game.
 
+A javascript version of this game is available at https://github.com/kisonecat/cauchy.quest
+
 ## Recorded demos
 
 You can watch a couple short games being played at
